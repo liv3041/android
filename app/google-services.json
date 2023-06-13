@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "754714659532",
+    "project_id": "pepe-c863f",
+    "storage_bucket": "pepe-c863f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754714659532:android:680034d0d9a821bbb8d069",
+        "android_client_info": {
+          "package_name": "com.example.pep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754714659532-ijvuhi53umcdfculv34904snegr4ltk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEl4lLGb1ThwY9gOawpbE791eUEV3_AyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754714659532-ijvuhi53umcdfculv34904snegr4ltk1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
